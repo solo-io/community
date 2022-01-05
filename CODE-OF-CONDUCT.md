@@ -41,6 +41,7 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* Practicing [Slack etiquette](https://slack.com/blog/collaboration/etiquette-tips-in-slack) when interacting with community members via Slack
 
 ## Enforcement Responsibilities
 
