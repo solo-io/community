@@ -32,7 +32,7 @@ community include:
 
 Examples of unacceptable behavior include:
 
-* Post non relevant spam contents
+* Posting content that is non-relevant, unhelpful, or solicitous (spam)
 * Attempting to poach solo employees
 * The use of sexualized language or imagery, and sexual attention or
   advances of any kind
