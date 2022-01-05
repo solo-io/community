@@ -28,6 +28,7 @@ community include:
   and learning from the experience
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+* Practicing [Slack etiquette](https://slack.com/blog/collaboration/etiquette-tips-in-slack) when interacting with community members via Slack
 
 Examples of unacceptable behavior include:
 
@@ -41,7 +42,6 @@ Examples of unacceptable behavior include:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
-* Practicing [Slack etiquette](https://slack.com/blog/collaboration/etiquette-tips-in-slack) when interacting with community members via Slack
 
 ## Enforcement Responsibilities
 
