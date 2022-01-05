@@ -1,7 +1,7 @@
 # Solo Community Code of Conduct
 
 All members of the Solo community must abide by the following Code of Conduct,
-adapted from the [Contributor Covenant][homepage]. Only by respecting each
+adapted from the [Contributor Covenant](https://www.contributor-covenant.org/). Only by respecting each
 other can we develop a productive, collaborative community.
 
 ## Our Pledge
